@@ -1,6 +1,10 @@
 Greetings Viewer,
 
 
+
+
+
+
 Myself Aaditya Awati - 
 
 I am a 10 year old programmer.
@@ -19,11 +23,23 @@ My  X(Twitter) Account - @AadityaAwati
 
 
 
+
+
+
+
+
+
+
+
+
 About the project :
 
 
 
 I made this project for my Science Exhibition at School.
+
+
+
 
 
 
@@ -36,6 +52,9 @@ https://www.youtube.com/watch?v=0-sy8n3fPOQ
 
 
 https://www.youtube.com/watch?v=7ZIecsfdPFg
+
+
+
 
 
 
